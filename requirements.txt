@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+dash
+jupyter-dash
+openpyxl
+gunicorn
