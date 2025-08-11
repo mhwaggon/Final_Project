@@ -1,7 +1,8 @@
-pandas
-numpy
-plotly
-dash
-jupyter-dash
-openpyxl
-gunicorn
+dash==2.17.1
+jupyter-dash==0.4.2
+plotly==5.22.0
+pandas==2.2.2
+numpy==1.26.4
+openpyxl==3.1.2
+gdown==5.2.0
+requests==2.32.3
